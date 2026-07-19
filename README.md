@@ -1,4 +1,4 @@
-# BliqStitch
+# bliq-stitch
 
 Tool to stitch images from the Bliq microscope.
 
@@ -126,7 +126,7 @@ Install Miniconda on your system. Follow the instructions here: https://docs.con
 ### Requirements
 6. Install other dependencies into the conda environment using `pip` to install dependencies from `requirements.txt`:
    ```bash
-   cd BliqStitch
+   cd bliq-stitch
    pip install -r requirements.txt
    ```
 
@@ -142,7 +142,7 @@ Activate your virtual environment:
 
 Go to the BliqStitcher/bliq_stitch folder:
    ```bash
-   cd BliqStitch
+   cd bliq-stitch
    ```
 
 Run the stitcher:
