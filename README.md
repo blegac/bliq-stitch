@@ -100,7 +100,7 @@ Install Miniconda on your system. Follow the instructions here: https://docs.con
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/blegac/BliqStitch
+   git clone https://github.com/blegac/bliq-stitch
    ```
 
 2. Start the Anaconda Prompt program and install all dependencies there.
